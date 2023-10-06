@@ -6,9 +6,9 @@ I'm Sara. I'm working as a Machine Learning Engineer and AI Engineering Manager 
 - 💗 I love speaking at different technical events and sharing knowledge with the tech community!
 
 
-- 📫 How to reach me:
-- [Twitter](https://twitter.com/sara_sanluis)
-- [LinkedIn](https://www.linkedin.com/in/sarasanluis/)
+- 📫 You can reach me at:
+    - [Twitter](https://twitter.com/sara_sanluis)
+    - [LinkedIn](https://www.linkedin.com/in/sarasanluis/)
 
 
 <!--
