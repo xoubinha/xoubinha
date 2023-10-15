@@ -1,12 +1,11 @@
 ### Hello world! 👋
 
-I'm Sara. I'm working as a Machine Learning Engineer and AI Engineering Manager at [Plain Concepts](https://www.plainconcepts.com/).
+Welcome to my GitHub profile! I'm glad you stopped by. Feel free to take a look around and explore my projects. If you have any questions and / or feedback, don't hesitate to let me know. Thank you for visiting!
 
-- 🔭 In my free time, I’m currently working on different AI pet projects.
-- 💗 I love speaking at different technical events and sharing knowledge with the tech community!
-
-
-- 📫 You can reach me at:
+- 👩‍💻 **Who am I?:**  I'm Sara, I work as a Machine Learning Engineer and AI Engineering Manager at [Plain Concepts](https://www.plainconcepts.com/).
+- 🔭 **What I do?:** In my free time, I’m currently working on different AI pet projects.
+- 💗 **Community:** I love speaking at different technical events and sharing knowledge with the tech community!
+- 📫 **How to reach me?**:
     - [Twitter](https://twitter.com/sara_sanluis)
     - [LinkedIn](https://www.linkedin.com/in/sarasanluis/)
 
